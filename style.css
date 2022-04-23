@@ -3,7 +3,7 @@ html {
   }
 body{
     color: #fff;
-    background: rgb(63,94,251);
+    background: #333;
     padding: 0;
     margin: 0;
     font-family: 'Readex Pro', sans-serif;
@@ -17,8 +17,7 @@ header {
     top: 0;
     margin: 0 0 2rem 0;
     padding: 0 1rem;
-    background-color: #fff;
-    color: #773ffb;
+    color: #fff;
     z-index: 999;
     flex-grow: 1;
 }
@@ -87,7 +86,6 @@ footer {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: #fff;
     color: #773ffb;
 
 }
